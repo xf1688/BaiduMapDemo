@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="af9665a44df26b4098e24c934c1109507845ef5e">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.44.0_2b3ca9bc5912bab646870107e6b1596bb34b756a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_cc517baa973a4d72b01384ea88c4277770985784.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wilf/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_be50a7974019d0d08237f6575f0e4abcc7d41ebe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_2c3f8043efd3423962ed5df8ed93f4e14720fe71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_36214e2590da231ec8d9ca99e602133662d4adb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wilf/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_c02af047ff5da20508c432be25c0b3705d1b5b11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_9eb09ad09fafbf69fb02f289d1237b67de27b6ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wilf/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_cb874b9372c7f96fae2f898070f2edc2d5f73ff4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_6cdca4883939ffd6a8d3ae4513a3f6957cd49960.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wilf/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_bfc81bb48cbdaa89dbe3516333309995c55762d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/exploded-aar/vehicle_localtion/react-native-baidu-map/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b0df67675e7a869966f33fe2ff9b85a338af94d7">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/vehicle_localtion-react-native-baidu-map-unspecified_094d6ff99546f98ed956f0c34cbc815d6e0d5a8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wilf/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_9d2ef3fa5619b9a15f5be0a5af6b15bfece37566.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wilf/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_e554641a3c9fd3e9527d57d67e899e48e3e0632c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_a65a5af8010c2b2c1045cc9a8a19e8ca295d800c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_09b9280d46d7baeb8d07c7c38033aa25e4106274.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/exploded-aar/vehicle_localtion/react-native-baidu-map/unspecified/jars/libs/BaiduLBS_Android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fdcc8f3333d680ba5e7fbd0d4907ab72d4d20c3e">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/BaiduLBS_Android_60c8f07e5975ef485b2a028903a6345d4577ae15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wilf/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_05f85a591ee6ea495d8e167919954a901d8ef70f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wilf/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_2ec465aed93941c35df0c7d09e950e205a433de5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_ff704f153e24915a5200df0e9bab65c8ed22f836.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_2da5007892e6c640b5230b84da28fc3a8c62dc73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_9a7789745a01fa6515274ccaa0de6e6c59dfd73f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wilf/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_c9f4a790cb5faf5cab58dc300223337bb56dee2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_2b8f3fc11339f0f73c418e13974ed52a8e3b0fb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/wilf/react-for-map/vehicle_localtion/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_829379f079a0009b30841d37e90b5069e0a595b2.jar" />
+    </item>
+
+</items>
